@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GOURAV0188/weather_App5.git/static/css/main.0d35f5f0.css",
+    "main.js": "/GOURAV0188/weather_App5.git/static/js/main.45130c94.js",
+    "index.html": "/GOURAV0188/weather_App5.git/index.html",
+    "main.0d35f5f0.css.map": "/GOURAV0188/weather_App5.git/static/css/main.0d35f5f0.css.map",
+    "main.45130c94.js.map": "/GOURAV0188/weather_App5.git/static/js/main.45130c94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d35f5f0.css",
+    "static/js/main.45130c94.js"
+  ]
+}
